@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-A production-grade machine learning solution for credit risk assessment. This project transforms raw financial data into actionable risk insights, calculating Probability of Default (PD), Risk Classification, and Expected Loss (EL) using an optimized LightGBM model.
+A machine learning solution for credit risk assessment. This project transforms raw financial data into actionable risk insights, calculating Probability of Default (PD), Risk Classification, and Expected Loss (EL) using an optimized LightGBM model.
 
 ## 🚀 Overview
 
